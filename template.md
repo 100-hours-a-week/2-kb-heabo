@@ -1,4 +1,4 @@
-# TIL Template
+# haebo's Today I Learn(TIL)
 
 ## 날짜: YYYY-MM-DD
 
