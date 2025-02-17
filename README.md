@@ -7,4 +7,5 @@ heabo's TIL
 250212 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0212til.md <br/>
 250213 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0213til.md <br/>
 250215 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0215til.md <br/>
-250215 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0216til.md <br/>
+250216 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0216til.md <br/>
+250217 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0217til.md <br/>
