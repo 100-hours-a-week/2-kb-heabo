@@ -10,3 +10,4 @@ heabo's TIL
 250216 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0216til.md <br/>
 250217 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0217til.md <br/>
 250218 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0218til.md <br/>
+250219 til https://github.com/100-hours-a-week/2-kb-heabo/blob/main/0219til.md <br/>
